@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I´m Jes$\pi$
+<h1 align="center">Hi 👋, I´m Jesper.
 <h3 align="center">A passionate data scientist from Germany.</h3>
 
 - 🔭 I’m currently working on **Galaxy cluster formation**
