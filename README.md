@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Francois Egner aka. Crypt0n</h1>
+<h1 align="center">Hi 👋, I'm Jes$\pi$ aka. Tunk</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamcrypt0n&label=Profile%20views&color=0e75b6&style=flat" alt="iamcrypt0n" /> </p>
 
@@ -16,13 +16,6 @@
 
 <p align="left"> <a href="https://twitter.com/iamcrypt0n" target="blank"><img src="https://img.shields.io/twitter/follow/iamcrypt0n?logo=twitter&style=for-the-badge" alt="iamcrypt0n" /></a> </p>
 
-- 🔭 I’m currently working on [Unity3D Sprite Sorter](https://github.com/IamCrypt0n/Unity3D-Sprite-Sorter)
-
-- 🌱 I’m currently learning **nodejs+Express(RestAPI) & Unity3D & Linux Kernel Programming**
-
-- 👨‍💻 All of my projects are available at [https://francois-egner.de](https://francois-egner.de)
-
-- 📫 How to reach me **egner.francois@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
