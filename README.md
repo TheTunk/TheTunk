@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I´m Jes<img src="https://render.githubusercontent.com/render/math?math=\pi"></h1>
+<h1 align="center">Hi 👋, I´m Jes$\pi$
 <h3 align="center">A passionate data scientist from Germany.</h3>
 
 - 🔭 I’m currently working on **Galaxy cluster formation**
