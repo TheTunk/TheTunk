@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Jes$\pi$ aka. Tunk</h1>
+<h1 align="center">Hi 👋, I'm Jes<img src="https://render.githubusercontent.com/render/math?math=\pi"> aka. Tunk</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamcrypt0n&label=Profile%20views&color=0e75b6&style=flat" alt="iamcrypt0n" /> </p>
 
